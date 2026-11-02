@@ -1,0 +1,6 @@
+{
+  "Name": "RandomStringGenerator",
+  "ProjectType": "Process",
+  "Description": "Background process that generates random strings that can be used as strong passwords.",
+  "MainFile": "Main.xaml"
+}

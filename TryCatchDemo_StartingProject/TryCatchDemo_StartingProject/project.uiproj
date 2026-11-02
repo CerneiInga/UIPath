@@ -1,0 +1,6 @@
+{
+  "Name": "TryCatchDemo_StartingProject",
+  "ProjectType": "Process",
+  "Description": "Process to read input data from Excel and add it in UiDemo while using activities for exception handling.",
+  "MainFile": "Main.xaml"
+}

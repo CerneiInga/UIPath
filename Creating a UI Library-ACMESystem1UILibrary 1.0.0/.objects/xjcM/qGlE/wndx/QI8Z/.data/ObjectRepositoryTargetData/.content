@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="w9tJjMPjx02Zysjg_D2kwA" Reference="EFVLhrhFjEKgjsZPc0nenQ/QI8Z5u9Y-EyPSKCiNEt04g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/login" DesignTimeRectangle="169, 809, 89, 50" DesignTimeScaleFactor="1.5" ElementType="Button" FriendlyName="'Login'" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn btn-primary' aaname='                             Login                         ' check:innerText='Login' /&gt;" Guid="17eb043c-1bf1-4832-b2bd-0daaad645459" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEAAAAAmCAYAAAB0xJ2ZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVGhD7Zm9bsIwFIX7RJVKH6lzpQ4s5SWQ+gxV17JAlz5BxFoxhaFsiC5kQGK5zbm2EzsySCnBTex7pKMQ/BOfL/4ZckOJSwDoK+vr+4ceXj5p9PRGt4+vURmZkA0ZbVUAUIBKd+N3Gj0v6H7yEZWRibOVGW0IFQDQQQVf45iMjMhqVAEAmRjffNPIiKxGFQCsE1+DGI2sRgJAXwWAABAAAsBbOUYLgM4ALAuiw46mvrJLPd/Rno6UzT1lF3oYAK7ooACm+VE/ASpoZpfzWzYqKENd058zAza0xu+8fF6lRl8tHAyACl8P1L1HKKJ9vlL1DYyTAKyyyYqyQ3m/3ai2LR0IgBr0emn/pwbOoT1tZ9uywRkAdl8M8+SzzzsMACdAbYQEAA7QeINOKAEwdADJL4HSPMgON8F+AvDJGpgKbdQ4ukxolj4GzbIYBICOzaH+eLS1cT8A8OyxZ4Rvz7iOezMDeNOzFCI83BsA/2UBIAAEgE4tAGoAyX8aS/7jaPKfxyEUgA4qYZ3EZGRCNjs85ABIUYkDIPoFG+Tyk0dskwAAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="FuzzySelector, Image" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="166ccfb533f6cd540964e684977ca977.png" xmlns="">0r5E_w4yTlUy86jOpTS3zBw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

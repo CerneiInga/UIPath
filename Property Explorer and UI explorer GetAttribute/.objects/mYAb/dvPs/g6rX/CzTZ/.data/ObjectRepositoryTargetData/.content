@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="L_CIgfSivEOenY2jdJ9I1g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="curs.md/ro" DesignTimeRectangle="901, 560, 11, 14" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='cursBox' tag='TABLE' /&gt;&lt;webctrl class='arrow' tableRow='1' tag='IMG' /&gt;" Guid="6431d604-dcd0-4909-885c-7a1bb3cd163a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Curs.md - Curs valutar' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ac662bd2fc2df841536e8c3532410185.jpg" xmlns="">02prUuvJqQEiZtKg_877NLA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

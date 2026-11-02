@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Accept",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "SStBzxIUQU2ykpBeVuZDhg",
+  "Reference": "PCDp-MK7wEuSDGI49YBw2Q/SStBzxIUQU2ykpBeVuZDhg",
+  "ParentRef": "PCDp-MK7wEuSDGI49YBw2Q/gGy8TmQNukOLa-6OCay2cw",
+  "Created": "2026-10-12T05:23:56.625186Z",
+  "Updated": "2026-10-12T05:23:56.625186Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

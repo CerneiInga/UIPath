@@ -1,0 +1,6 @@
+{
+  "Name": "RCA_IncidentRequest_Project",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

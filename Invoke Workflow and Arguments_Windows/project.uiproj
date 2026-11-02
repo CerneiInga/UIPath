@@ -1,0 +1,6 @@
+{
+  "Name": "Invoke Workflow and Arguments_Windows",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

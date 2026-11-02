@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Banca Națională a Moldovei ",
+  "Type": "Screen",
+  "Id": "g6rX9Vq4LkGRGeofanr-kg",
+  "Reference": "6IP9EaQ9dkyX2X5hFA70bw/g6rX9Vq4LkGRGeofanr-kg",
+  "ParentRef": "6IP9EaQ9dkyX2X5hFA70bw/dvPswNSY0E6nBU9ZvRHSkA",
+  "Created": "2026-10-20T14:00:39.1434781Z",
+  "Updated": "2026-10-20T14:00:39.1434781Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

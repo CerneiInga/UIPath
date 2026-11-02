@@ -1,0 +1,6 @@
+{
+  "Name": "Practice2_RetryScope",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

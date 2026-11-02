@@ -1,0 +1,6 @@
+{
+  "Name": "HashGeneratorDispatcher",
+  "ProjectType": "Process",
+  "Description": "Process to iterate through an Excel File and add the transaction items in an Orchestrator Queue. ",
+  "MainFile": "Main.xaml"
+}

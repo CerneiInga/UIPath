@@ -1,0 +1,16 @@
+﻿{
+  "Id": "o45e0njzV06_akou0Lchdw",
+  "Reference": "EFVLhrhFjEKgjsZPc0nenQ/o45e0njzV06_akou0Lchdw",
+  "ParentRef": "EFVLhrhFjEKgjsZPc0nenQ/D18L9Ra3BUGTwuOPoJLsFw",
+  "Name": "EmployeeDetails",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Created": "2023-03-20T16:36:04.7549257Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-21T01:04:46.7802827Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

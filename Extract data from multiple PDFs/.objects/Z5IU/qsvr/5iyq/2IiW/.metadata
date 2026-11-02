@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Tax 25035.6 USD",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "2IiWhGmJsUGS2dHJAayJpg",
+  "Reference": "kjqSl8S0UkuZ-XQuuAIoKg/2IiWhGmJsUGS2dHJAayJpg",
+  "ParentRef": "kjqSl8S0UkuZ-XQuuAIoKg/5iyqzC9EvUu5WBKE9E9Ixg",
+  "Created": "2026-10-26T10:02:50.835508Z",
+  "Updated": "2026-10-26T10:02:50.835508Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

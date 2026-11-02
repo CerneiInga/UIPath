@@ -1,0 +1,6 @@
+{
+  "Name": "ACMESystem1.Employees.Descriptors",
+  "ProjectType": "Library",
+  "Description": "",
+  "MainFile": "NewActivity.xaml"
+}

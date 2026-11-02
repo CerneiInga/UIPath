@@ -1,0 +1,6 @@
+{
+  "Name": "Fine Tuning Descriptor Using Variables",
+  "ProjectType": "Process",
+  "Description": "This example showcases how we can use variables in our Descriptors.",
+  "MainFile": "Main.xaml"
+}

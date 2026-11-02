@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge: ACME System 1 - Employees",
+  "Type": "Screen",
+  "Id": "lxBHFdgJU0at6Pr9OtquPw",
+  "Reference": "KM9Jb6Xu_USayoWnOcJ3gw/lxBHFdgJU0at6Pr9OtquPw",
+  "ParentRef": "KM9Jb6Xu_USayoWnOcJ3gw/xaLlQeTC9USBvDGceYNMTw",
+  "Created": "2026-10-28T14:44:10.2781547Z",
+  "Updated": "2026-10-28T14:44:10.2781547Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Banca Națională a Moldovei ",
+  "Type": "App",
+  "Id": "mYAbnszgrUKsSAI82ML2pw",
+  "Reference": "6IP9EaQ9dkyX2X5hFA70bw/mYAbnszgrUKsSAI82ML2pw",
+  "Created": "2026-10-20T14:00:39.0183244Z",
+  "Updated": "2026-10-20T14:00:39.0183244Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

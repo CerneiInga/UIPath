@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Cash In",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "BiacVXgUJkqci-Enual6fg",
+  "Reference": "PCDp-MK7wEuSDGI49YBw2Q/BiacVXgUJkqci-Enual6fg",
+  "ParentRef": "PCDp-MK7wEuSDGI49YBw2Q/gGy8TmQNukOLa-6OCay2cw",
+  "Created": "2026-10-12T05:17:10.7867552Z",
+  "Updated": "2026-10-12T05:17:10.7867552Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

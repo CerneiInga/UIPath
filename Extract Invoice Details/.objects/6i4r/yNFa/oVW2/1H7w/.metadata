@@ -1,0 +1,14 @@
+﻿{
+  "Name": "DE767565",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "1H7w2wm6TU-L9-r2-xdL-A",
+  "Reference": "IUzluzEcrkOrq_31WlwiHg/1H7w2wm6TU-L9-r2-xdL-A",
+  "ParentRef": "IUzluzEcrkOrq_31WlwiHg/oVW2nH9iFEKOT70Kc3VHJA",
+  "Created": "2026-10-12T06:57:34.3877624Z",
+  "Updated": "2026-10-12T06:57:34.3877624Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Videoclipuri",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Sw6WzfCCBE2Cc7RZC23LiA",
+  "Reference": "BGe6neFXQkGK3y8CgVevwA/Sw6WzfCCBE2Cc7RZC23LiA",
+  "ParentRef": "BGe6neFXQkGK3y8CgVevwA/3v_dVCknsEOx20ryp474Fw",
+  "Created": "2026-10-12T08:07:03.0735788Z",
+  "Updated": "2026-10-12T08:07:03.0735788Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

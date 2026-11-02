@@ -1,0 +1,6 @@
+{
+  "Name": "UIPath First Run",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

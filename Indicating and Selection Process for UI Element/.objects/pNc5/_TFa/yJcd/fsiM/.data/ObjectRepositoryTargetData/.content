@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="q6YwwxKxnE26ejJppLuumg" Reference="nX6OVYPvCkK84VVtLk0sEw/fsiMnVoEwUuR-OAecEvyqw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" DesignTimeRectangle="626, 499, 375, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='kRXf4' tag='INPUT' type='' class='ng-untouched ng-pristine ng-invalid' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="d05c05e3-4b20-4a37-94b7-bf4fbcc65ad0" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAXcAAAA5CAYAAADN5WtWAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADkSURBVHhe7dQBCQAwEMSw+RdxVn8+SgK10HcA5Jg7QJC5AwSZO0CQuQMEmTtAkLkDBJk7QJC5AwSZO0CQuQMEmTtAkLkDBJk7QJC5AwSZO0CQuQMEmTtAkLkDBJk7QJC5AwSZO0CQuQMEmTtAkLkDBJk7QJC5AwSZO0CQuQMEmTtAkLkDBJk7QJC5AwSZO0CQuQMEmTtAkLkDBJk7QJC5AwSZO0CQuQMEmTtAkLkDBJk7QJC5AwSZO0CQuQMEmTtAkLkDBJk7QJC5AwSZO0CQuQMEmTtAkLkDBJk7QNDbdpKkUrsPOjcXJeHs2U0AAAAASUVORK5CYII=" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, Image" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="626, 475, 79, 21" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='First Name' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='First Name' /&gt;" Guid="6d76c55a-ddb5-477f-bbfd-4cbaf0899c73" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a286085fa58ada11e25746130b69fc33.jpg" xmlns="">0GO12ZuaNPEG5fpScK6JVGA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

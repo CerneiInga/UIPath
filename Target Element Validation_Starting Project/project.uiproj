@@ -1,0 +1,6 @@
+{
+  "Name": "Target Element Validation",
+  "ProjectType": "Process",
+  "Description": "Target Elemenet Validation demonstration",
+  "MainFile": "Main.xaml"
+}

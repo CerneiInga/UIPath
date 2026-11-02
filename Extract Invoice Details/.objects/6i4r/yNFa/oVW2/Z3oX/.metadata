@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Various paper supplies",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Z3oXvoukCUqxJv2ssZCFfQ",
+  "Reference": "IUzluzEcrkOrq_31WlwiHg/Z3oXvoukCUqxJv2ssZCFfQ",
+  "ParentRef": "IUzluzEcrkOrq_31WlwiHg/oVW2nH9iFEKOT70Kc3VHJA",
+  "Created": "2026-10-12T06:58:10.759818Z",
+  "Updated": "2026-10-12T06:58:10.759818Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "RetryScopeDemo_StartingProject",
+  "ProjectType": "Process",
+  "Description": "This workflow downloads the Vendor monthly report based on TaxID, Month and Year. It is part of a bigger process and it is not set as Main.\r\nPre-conditions: Edge Browser open to ACME System 1, on the Reports - Download Monthly Report page. ",
+  "MainFile": "Main.xaml"
+}

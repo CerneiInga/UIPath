@@ -1,0 +1,13 @@
+﻿{
+  "Id": "k2odHTX7xEuKLwPeNgazuQ",
+  "Reference": "EFVLhrhFjEKgjsZPc0nenQ/k2odHTX7xEuKLwPeNgazuQ",
+  "ParentRef": "EFVLhrhFjEKgjsZPc0nenQ/D18L9Ra3BUGTwuOPoJLsFw",
+  "Name": "Log Out",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-03-20T16:36:04.7836658Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-20T16:36:04.7836658Z"
+}

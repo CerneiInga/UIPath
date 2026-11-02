@@ -1,0 +1,14 @@
+﻿{
+  "Name": "20.1053",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "CzTZl2tXDkCwTcZ2McPrqA",
+  "Reference": "6IP9EaQ9dkyX2X5hFA70bw/CzTZl2tXDkCwTcZ2McPrqA",
+  "ParentRef": "6IP9EaQ9dkyX2X5hFA70bw/g6rX9Vq4LkGRGeofanr-kg",
+  "Created": "2026-10-20T14:02:21.6070886Z",
+  "Updated": "2026-10-20T14:02:21.6070886Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

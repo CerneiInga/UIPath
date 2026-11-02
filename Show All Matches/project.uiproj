@@ -1,0 +1,6 @@
+{
+  "Name": "Show All Matches",
+  "ProjectType": "Process",
+  "Description": "'Show All Matches' demonstration.",
+  "MainFile": "Main.xaml"
+}

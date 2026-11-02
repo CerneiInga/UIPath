@@ -1,0 +1,21 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "97ec16ab-54d4-4e82-be61-be4c936833b4",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "in_IncidentNumber": {
+            "type": "string",
+            "x-default-expression": "\"Work from Home\"",
+            "default": "Work from Home"
+          }
+        },
+        "required": []
+      }
+    }
+  ]
+}

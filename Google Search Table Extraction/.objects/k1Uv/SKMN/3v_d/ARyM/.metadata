@@ -1,0 +1,13 @@
+﻿{
+  "Name": "DIV center_col",
+  "Type": "Element",
+  "Id": "ARyMYSkLVkevlK4oTnvNYQ",
+  "Reference": "BGe6neFXQkGK3y8CgVevwA/ARyMYSkLVkevlK4oTnvNYQ",
+  "ParentRef": "BGe6neFXQkGK3y8CgVevwA/3v_dVCknsEOx20ryp474Fw",
+  "Created": "2026-10-12T08:23:53.5990748Z",
+  "Updated": "2026-10-12T08:23:53.5990748Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

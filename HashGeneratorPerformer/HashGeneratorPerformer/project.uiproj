@@ -1,0 +1,6 @@
+{
+  "Name": "HashGeneratorPerformer",
+  "ProjectType": "Process",
+  "Description": "Process to retrive the transaction items for an Orchestrator Queue and fill in the details on the Tracker Points webpage.",
+  "MainFile": "Main.xaml"
+}

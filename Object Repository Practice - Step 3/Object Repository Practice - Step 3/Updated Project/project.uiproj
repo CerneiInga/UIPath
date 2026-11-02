@@ -1,0 +1,6 @@
+{
+  "Name": "ACMESystem1.Employees_Exercise_3",
+  "ProjectType": "Process",
+  "Description": "Project to interact with ACME element for exercise 3 in Academy Course of Object Repository",
+  "MainFile": "Main.xaml"
+}

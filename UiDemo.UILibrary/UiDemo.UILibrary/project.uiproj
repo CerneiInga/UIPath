@@ -1,0 +1,6 @@
+{
+  "Name": "UiDemo.Descriptors",
+  "ProjectType": "Library",
+  "Description": "UiDemo UI Library",
+  "MainFile": "NewActivity.xaml"
+}

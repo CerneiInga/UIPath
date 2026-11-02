@@ -1,0 +1,32 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "c204abc0-82d6-4b52-adab-c69e68108579",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "Name": {
+            "type": "string",
+            "x-default-expression": "\"dear friend\"",
+            "default": "dear friend"
+          }
+        },
+        "required": []
+      },
+      "output": {
+        "type": "object",
+        "properties": {
+          "ChosenButton": {
+            "type": "string"
+          },
+          "Done": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  ]
+}

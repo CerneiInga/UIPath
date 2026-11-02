@@ -1,0 +1,6 @@
+{
+  "Name": "Check App State and Verify execution",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bux6aJhEvkemat3Dk26WGw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.google.com/search?sca_esv=dd1ec24fae448ca7&amp;sxsrf=APpeQnsZDH2ZXPAyPXxj1oWW3TL8uzHgxg:1791792599096&amp;udm=vids&amp;fbs=ABfTbFWfH4wlW6n2_hxvp9wb2ZU9t6DZUU3cr83ivhVjHIOPz0HvbrwjYJs_PtKtV_PT8Tw_vRd2yIRPya3zXNF7fmXNLuDBZmpzx7OleU5u1B9hkUsa5NDHHAgDS4ewRfgc1fuyejIaDmQ52V_x6t707jrmb-TJPSQj4icK0sO43gqxNJTuGpS-mXOUJkncwPRMWTuGhSmRIsmqqK-xKGR6y335pl-J8A&amp;q=UIPath+Academy&amp;sa=X&amp;ved=2ahUKEwjz_ITLg7SXAxVYFBAIHbhbBMkQtKgLegQIIBAB&amp;biw=1528&amp;bih=740&amp;dpr=1.25#ip=1" DesignTimeRectangle="272, 309, 815, 12019" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='center_col' tag='DIV' /&gt;" Guid="3edd7ca3-4933-4e31-bd7b-f6e615c65e97" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UIPath Academy - Căutare Google' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c5e169b6de13e442517638c079227369.jpg" xmlns="">0Y2kw9Usyk0G9FXsKGJp8zw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractDataGeneric</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='Video Title'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column1' Name='Video Title Url'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;true&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column4' Name='Date Uploaded' Sort='Desc'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataNextLink' /&gt;
+&lt;/Table&gt;</p:InArgument>
+    <TargetAnchorable x:Key="NextLinkTarget" BrowserURL="google.com/search" DesignTimeRectangle="447, 809, 465, 50" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='ZFiwCf' parentid='botstuff' tag='DIV' /&gt;" Guid="e66e8cf7-b07c-4fae-b895-d5f7b0252342" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UIPath Academy - Căutare Google' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="0" Y="0" />
+      </TargetAnchorable.PointOffset>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

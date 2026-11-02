@@ -1,0 +1,6 @@
+{
+  "Name": "IntegrationService_ExtractData",
+  "ProjectType": "Process",
+  "Description": "Process used to Extract Data from SAP Success Factors",
+  "MainFile": "Main.xaml"
+}

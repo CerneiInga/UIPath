@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Căutare Google",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "tXBe8RSVT0aAJ9ZGWc0QXQ",
+  "Reference": "BGe6neFXQkGK3y8CgVevwA/tXBe8RSVT0aAJ9ZGWc0QXQ",
+  "ParentRef": "BGe6neFXQkGK3y8CgVevwA/3v_dVCknsEOx20ryp474Fw",
+  "Created": "2026-10-12T08:06:32.3565606Z",
+  "Updated": "2026-10-12T08:06:32.3565606Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

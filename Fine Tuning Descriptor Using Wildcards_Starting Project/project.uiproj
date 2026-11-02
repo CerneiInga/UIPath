@@ -1,0 +1,6 @@
+{
+  "Name": "Using Wildcards",
+  "ProjectType": "Process",
+  "Description": "An example of how wildcards can be used",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "Get Emails with IMAP and Filtering",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
